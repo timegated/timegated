@@ -10,11 +10,11 @@
 
 ##### The end game for me is to get good at creating data-driven user interfaces which means I know a thing or two about hooking things up to a backend whether that be through serverless functions or api calls. We're all just hitting endpoints and retrieving data at the end of the day.
 
-#### Here's a link to a blog I started
-#### https://tyfyi.blog
+### Here's a link to a blog I started
+### https://tyfyi.blog
 
-#### And here's my portfolio
-#### https://dbeccaria.info
+### And here's my portfolio
+### https://dbeccaria.info
 <!--
 **timegated/timegated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
