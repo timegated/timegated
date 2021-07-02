@@ -2,13 +2,12 @@
 
 [![Daniel Beccaria's Github Stats](https://github-readme-stats.vercel.app/api?username=timegated&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-I spend most of my time learning the ins and outs of frontend web development which means I'm doing a lot of javascript programming. I got started with jquery but gradually moved to React and Vue (and just plain old JS when the situation calls for it).
+I spend most of my time working in frontend web development which means I'm doing a lot of javascript programming. 
 
-The end game for me is to get good at creating data-driven user interfaces which means I know a thing or two about hooking things up to a backend whether that be through serverless functions or api calls. We're all just hitting endpoints and retrieving data at the end of the day.
+I got started with jquery but gradually moved to React and Vue (and just plain old JS when the situation calls for it).
 
-### Here's a link to a blog I started
-### https://tyfyi.blog
+The end game for me is to constantly improve at creating data-driven user interfaces.
 
-### And here's my portfolio
+### Portfolio
 ### https://dbeccaria.info
 
