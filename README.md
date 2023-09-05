@@ -1,6 +1,3 @@
-### Here's some stats:
-
-[![Daniel Beccaria's Github Stats](https://github-readme-stats.vercel.app/api?username=timegated&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 I spend most of my time working in frontend web development which means I'm doing a lot of javascript programming. 
 
